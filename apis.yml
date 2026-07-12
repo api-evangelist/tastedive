@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://tastedive.com/read/api
 common:
+  - type: DomainSecurity
+    url: security/tastedive-domain-security.yml
   - type: Website
     url: https://tastedive.com/read/api
   - type: PublicAPIsListing
