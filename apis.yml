@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/tastedive.
 name: TasteDive
 description: "Content-based recommendations for movies, music, TV shows, books, games, and podcasts"
 url: https://tastedive.com/read/api
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
