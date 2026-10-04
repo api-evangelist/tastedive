@@ -39,7 +39,6 @@ apis:
   - name: TasteDive
     description: "Content-based recommendations for movies, music, TV shows, books, games, and podcasts"
     humanURL: https://tastedive.com/read/api
-    baseURL: https://tastedive.com/read/api
     tags:
       - Entertainment
     properties:
