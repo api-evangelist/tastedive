@@ -27,7 +27,7 @@ description: "Content-based recommendations for movies, music, TV shows, books, 
 url: https://tastedive.com/read/api
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Entertainment"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://tastedive.com/read/api
 common:
+  - url: https://tastedive.com/blog
+    type: Blog
   - type: DomainSecurity
     url: security/tastedive-domain-security.yml
   - type: Website
